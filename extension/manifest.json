@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "UL要素カウンター",
+  "version": "1.2",
+  "description": "ul要素を可視化してクリックでカウントします",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "scripting"]
+}
