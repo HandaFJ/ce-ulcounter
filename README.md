@@ -1,5 +1,11 @@
 # UL要素カウンター (Chrome Extension)
 
+![](./img/usecase_0.png)
+
+---
+
+![](./img/usecase_1.png)
+
 ページ内の `ul` 要素を可視化し、クリックすることで子要素の数を手軽にカウントできる開発用ブラウザ拡張機能（Manifest V3）です。
 
 ## 使い方
